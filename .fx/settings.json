@@ -13,7 +13,8 @@
         "activeResourcePlugins": [
             "fx-resource-local-debug",
             "fx-resource-bot",
-            "fx-resource-aad-app-for-teams"
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-appstudio"
         ]
     }
 }
